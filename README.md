@@ -30,4 +30,4 @@
 3. alertar(): abstração de um sistema de alertas não implementado.
 
 # Conclusão
-### O desafio inteiro foi concluido sem muitas dificuldades, sendo concluído em sua totalidade em 6 horas, entre as 14h e as 20h da terça feira 30/05/2023. <br/> Foram usadas as ferramentas VisualStudioCode, GitHub e wokwi.
+### O desafio inteiro foi concluido sem muitas dificuldades, sendo concluído em sua totalidade em 6 horas, entre as 14h e as 20h da terça feira 30/05/2023. <br/> Foram usadas as ferramentas VisualStudioCode, Git/GitHub e wokwi.
